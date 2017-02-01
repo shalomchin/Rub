@@ -1,1 +1,1 @@
-Ruby2
+Ruby
